@@ -1,3 +1,19 @@
+# React Redux Project
+
+This project using to a React Redux Toolkit.
+
+### It's a Single Page Application
+
+![redux](https://github.com/JeevaFsd-0/React-Redux/assets/145536938/40065f56-337e-4ca5-babb-6b687f1db2e3)
+
+### Users Details stored this Page
+
+![redux2](https://github.com/JeevaFsd-0/React-Redux/assets/145536938/750ab7cc-bc44-4684-89d9-38c1300bd7b5)
+
+### Delete Option Available
+
+![redux3](https://github.com/JeevaFsd-0/React-Redux/assets/145536938/9a98f93f-812f-42b4-ab32-8aa8c640e81c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
